@@ -169,13 +169,9 @@
     <Content Include="merges\windows\scripts\platformOverrides.js" />
     <Content Include="merges\windows\scripts\winstore-jscompat.js" />
     <Folder Include="merges\wp8\" />
-    <Folder Include="res\icons\ios\" />
-    <Folder Include="res\icons\wp8\" />
     <Folder Include="res\icons\windows\" />
     <Folder Include="res\screens\android\" />
-    <Folder Include="res\screens\ios\" />
     <Folder Include="res\screens\windows\" />
-    <Folder Include="res\screens\wp8\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="config.xml">
@@ -186,6 +182,13 @@
     <Content Include="res\icons\android\icon-72-hdpi.png" />
     <Content Include="res\icons\android\icon-48-mdpi.png" />
     <Content Include="res\icons\android\icon-36-ldpi.png" />
+    <Content Include="res\icons\ios\icon-60%403x.png" />
+    <Content Include="res\icons\wp8\ApplicationIcon.png" />
+    <Content Include="res\icons\wp8\Background.png" />
+    <Content Include="res\screens\ios\screen-iphone-landscape-736h.png" />
+    <Content Include="res\screens\ios\screen-iphone-portrait-667h.png" />
+    <Content Include="res\screens\ios\screen-iphone-portrait-736h.png" />
+    <Content Include="res\screens\wp8\SplashScreenImage.png" />
     <Content Include="scripts\audioPlayer.js" />
     <Content Include="scripts\index.js" />
     <Content Include="scripts\platformOverrides.js" />
@@ -212,8 +215,6 @@
     <Content Include="res\icons\windows\storelogo.png" />
     <Content Include="res\icons\windows\StoreLogo.scale-240.png" />
     <Content Include="res\icons\windows\Wide310x150Logo.scale-240.png" />
-    <Content Include="res\icons\wp8\icon-62-tile.png" />
-    <Content Include="res\icons\wp8\icon-173-tile.png" />
     <Content Include="res\native\android\ant.properties" />
     <Content Include="res\screens\android\screen-hdpi-landscape.png" />
     <Content Include="res\screens\android\screen-hdpi-portrait.png" />
@@ -232,7 +233,6 @@
     <Content Include="res\screens\ios\screen-iphone-portrait-2x.png" />
     <Content Include="res\screens\windows\splashscreen.png" />
     <Content Include="res\screens\windows\SplashScreen.scale-240.png" />
-    <Content Include="res\screens\wp8\screen-portrait.jpg" />
   </ItemGroup>
   <PropertyGroup>
     <TypeScriptToolsVersion>1.0</TypeScriptToolsVersion>
