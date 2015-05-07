@@ -185,6 +185,9 @@
     <Content Include="res\icons\ios\icon-60%403x.png" />
     <Content Include="res\icons\wp8\ApplicationIcon.png" />
     <Content Include="res\icons\wp8\Background.png" />
+    <Content Include="res\native\android\androidcanal_2_radios.keystore" />
+    <Content Include="res\native\windows\CordovaApp.pfx" />
+    <Content Include="res\native\wp8\Properties\WMAppManifest.xml" />
     <Content Include="res\screens\ios\screen-iphone-landscape-736h.png" />
     <Content Include="res\screens\ios\screen-iphone-portrait-667h.png" />
     <Content Include="res\screens\ios\screen-iphone-portrait-736h.png" />

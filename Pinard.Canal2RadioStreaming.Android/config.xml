@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<widget xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:vs="http://schemas.microsoft.com/appx/2014/htmlapps" id="io.cordova.Pinard.Canal2RadioStreaming.Android" version="1.0.0.0" xmlns="http://www.w3.org/ns/widgets">
+<widget xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:vs="http://schemas.microsoft.com/appx/2014/htmlapps" id="com.pinard.Canal2RadioStreaming" version="1.0.0.0" xmlns="http://www.w3.org/ns/widgets">
   <name>Canal 2 Radios</name>
   <description>Redirección a los nuevos servidores de streamming de Canal 2</description>
   <author href="http://cordova.io" email="dev@cordova.apache.org">Pinard Software e Innovación</author>
@@ -12,8 +12,11 @@
   <preference name="target-device" value="universal" />
   <preference name="Orientation" value="default" />
   <vs:platformSpecificValues>
-    <vs:platformSpecificWidget platformName="windows" version="1.0.0.0">
+    <vs:platformSpecificWidget platformName="windows" id="39979NortelevisaSA.Canal2Radios" version="1.0.0.0">
       <vs:name>Canal 2 Radios</vs:name>
+      <vs:author>Nortelevisa SA</vs:author>
+      <vs:publisherId>CN=5266DC8B-5870-46D7-BB6F-B7D3D98247BF</vs:publisherId>
+      <vs:certFile>CordovaApp.pfx</vs:certFile>
     </vs:platformSpecificWidget>
   </vs:platformSpecificValues>
 </widget>
